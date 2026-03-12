@@ -17,10 +17,8 @@ The project demonstrates a typical data science workflow including SQL-based dat
 
 ### Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
-- Seaborn
 
 ### R
 - Logistic Regression (GLM)
